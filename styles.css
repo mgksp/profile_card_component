@@ -43,9 +43,13 @@ body {
 
 /* font gray and small */
 .text-gs {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   font-weight: 400;
   color: var(--dark-grayish-blue);
+}
+
+.mb {
+  margin-bottom: 1rem;
 }
 
 /* card */
